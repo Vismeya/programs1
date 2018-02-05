@@ -8,11 +8,11 @@ class find
         char c=sc.next();
         if((c>='a' && c<='z') || (c>='A' && c<='Z'))
         {
-            System.out.println("c is a character");
+            System.out.println("it is an alphabet");
         }
         else
         {
-            System.out.println("c is not a character");
+            System.out.println("it is not an alphabet");
         }
     }
 }
